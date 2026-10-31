@@ -1,0 +1,68 @@
+date,category,type,amount,description
+2026-02-04,Education,expense,157.25,Programming textbook
+2026-01-07,Subscriptions,expense,61.62,Netflix subscription
+2026-02-02,Utilities,expense,86.56,Electricity bill
+2026-02-22,,expense,8.38,Billa supermarket
+2026-02-01,Rent,expense,700,Monthly apartment rent
+2026-02-28,Groceries,expense,30.81,Fantastico food shopping
+2026-06-22,,expense,86.95,YouTube Premium
+2026-02-14,Subscriptions,expense,40.83,YouTube Premium
+2026-03-03,,expense,28.2,Uber ride
+2026-04-28,Groceries,expense,8.79,Fresh vegetables market
+2026-06-11,,expense,14.14,ChatGPT Plus subscription
+2026-04-19,Education,expense,42.19,University tuition fee
+2026-03-02,Groceries,expense,35.63,Kaufland weekly groceries
+2026-05-01,Rent,expense,700,Monthly apartment rent
+2026-01-16,Subscriptions,expense,56.83,ChatGPT Plus subscription
+2026-05-17,,expense,88.13,iCloud storage plan
+2026-03-07,,expense,159.71,Coursera certificate
+2026-02-18,Freelance,income,419,Freelance web project
+2026-06-01,Rent,expense,700,Monthly apartment rent
+2026-01-26,Entertainment,expense,80.12,Restaurant dinner
+2026-05-10,Groceries,expense,16.94,Fresh vegetables market
+2026-06-17,Transport,expense,56.37,Uber ride
+2026-03-26,Subscriptions,expense,49.73,ChatGPT Plus subscription
+2026-01-22,Groceries,expense,23.14,Fantastico food shopping
+2026-03-01,Rent,expense,700,Monthly apartment rent
+2026-05-05,Groceries,expense,57.49,Fantastico food shopping
+2026-06-25,Entertainment,expense,68.43,Concert ticket
+2026-02-09,Transport,expense,66.04,Metro ticket
+2026-01-08,Groceries,expense,45.05,Fresh vegetables market
+2026-02-17,Entertainment,expense,25.2,Restaurant dinner
+not a date,Transport,expense,30,bad date
+2026-06-13,Education,expense,131.06,University tuition fee
+2026-04-18,Freelance,income,595,Freelance web project
+2026-04-01,Rent,expense,700,Monthly apartment rent
+2026-05-15,Transport,expense,68.67,Uber ride
+2026-04-10,Groceries,expense,89.12,Lidl groceries
+2026-05-08,Utilities,expense,30.98,Electricity bill
+2026-03-14,Utilities,expense,42.38,Water bill
+2026-03-27,,expense,89.18,Bar with friends
+2026-05-18,Education,expense,26.52,Udemy course
+2026-06-05,Salary,income,2423,Monthly salary
+2026-03-05,Salary,income,2422,Monthly salary
+2026-03-16,Subscriptions,expense,22.57,iCloud storage plan
+2026-02-05,Subscriptions,expense,10.44,ChatGPT Plus subscription
+2026-01-03,,expense,76.2,Electricity bill
+2026-04-09,Entertainment,expense,82.49,Concert ticket
+2026-05-25,Subscriptions,expense,32.06,ChatGPT Plus subscription
+2026-01-16,Subscriptions,expense,56.83,ChatGPT Plus subscription
+2026-01-04,Transport,expense,15.72,Uber ride
+2026-04-17,Subscriptions,expense,45.16,Spotify premium
+2026-06-20,Groceries,expense,61.87,Billa supermarket
+2026-04-21,Subscriptions,expense,9.27,ChatGPT Plus subscription
+2026-03-14,Groceries,expense,,missing amount
+2026-03-05,Groceries,expense,87.05,Billa supermarket
+2026-05-05,Salary,income,2375,Monthly salary
+2026-04-06,Utilities,expense,79.06,Water bill
+2026-01-05,Salary,income,2407,Monthly salary
+2026-04-08,,expense,39.67,Shell fuel
+2026-04-05,Salary,income,2400,Monthly salary
+2026-06-12,Groceries,expense,19.35,Lidl groceries
+2026-01-01,Rent,expense,700,Monthly apartment rent
+2026-05-09,Entertainment,expense,13.67,Cinema tickets
+2026-04-02,groceries ,expense,"45,50",Lidl groceries
+2026-06-18,Freelance,income,367,Freelance web project
+2026-01-08,Education,expense,65.68,Programming textbook
+2026-06-16,,expense,19.2,Vivacom internet
+2026-02-05,Salary,income,2416,Monthly salary
